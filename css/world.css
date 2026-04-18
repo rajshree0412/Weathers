@@ -182,7 +182,7 @@ nav ul li a {
   align-items: center;
   justify-content: center;
 }
-.weather-icon img {
+.weather-icon  {
   width: 100%;
 }
 @media screen and (min-width: 430px) {
