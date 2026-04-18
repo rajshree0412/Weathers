@@ -62,7 +62,7 @@ nav ul li a {
   margin-top: 10px;
 }
 
-.weather-icon-css img {
+.weather-icon-css  {
   width: 80%;
   animation: float 3s ease-in-out infinite;
 }
@@ -112,7 +112,7 @@ nav ul li a {
   align-items: center;
   background-color: var(--white-color);
 }
-.weather-icon-today img {
+.weather-icon-today  {
   width: 40px;
 }
 .temp-today {
@@ -164,7 +164,7 @@ nav ul li a {
 .day-weather {
   font-size: 15px;
 }
-.weather-icon-forecast img {
+.weather-icon-forecast  {
   width: 30px;
 }
 .temp-weather {
@@ -194,7 +194,7 @@ nav ul li a {
     height: 350px;
     margin-top: 40px;
   }
-  .weather-icon-css img {
+  .weather-icon-css {
     width: 25rem;
   }
   .weather-description {
